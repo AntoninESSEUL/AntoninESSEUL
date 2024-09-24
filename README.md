@@ -2,6 +2,7 @@
 - `docker images` verify docker images pulled
 - `docker ps -a` verify docker container execution
 - `doker logs mysql` connect to container interactive bash shell
+- `docker exec -it mysql bash` run bash in docker
 - **bash-4.4#** `mysql -u root -p`
 - Enter password: `uimm`
 - **mysql>** `CREATE DATABASE DB;` create a new database
