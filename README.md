@@ -1,7 +1,7 @@
 - `docker compose up -d` run Docker compose to pull docker images and run docker container
 - `docker images` verify docker images pulled
--`docker ps -a` verify docker container execution
--`doker logs mysql` connect to container interactive bash shell
+- `docker ps -a` verify docker container execution
+- `doker logs mysql` connect to container interactive bash shell
 - bash-4.4# `mysql -u root -p`
 - Enter password: `uimm`
 - mysql> `CREATE DATABASE DB;` create a new database
