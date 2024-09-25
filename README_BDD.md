@@ -5,6 +5,7 @@
 - `docker ps -a` : Liste tous les conteneurs, y compris les conteneurs arrêtés.
 - `docker run image_name` : Crée et démarre un conteneur à partir d'une image.
 - `docker exec -it container_name bash` : Lance une session bash interactive dans un conteneur.
+- `mysql -u root -p` : Lance une session prompt sql.
 - `docker stop container_name` : Arrête un conteneur en cours d'exécution.
 - `docker start container_name` : Démarre un conteneur arrêté.
 - `docker restart container_name` : Redémarre un conteneur.
