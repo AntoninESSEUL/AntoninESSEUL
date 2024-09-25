@@ -2,7 +2,7 @@
 
 ## Gestion des Conteneurs
 
-- `docker ps -a` : Liste tous les conteneurs, y compris les conteneurs arrêtés.
+- ```docker ps -a``` : Liste tous les conteneurs, y compris les conteneurs arrêtés.
 - `docker run image_name` : Crée et démarre un conteneur à partir d'une image.
 - `docker exec -it container_name bash` : Lance une session bash interactive dans un conteneur.
 - `mysql -u root -p` : Lance une session prompt sql.
