@@ -1,6 +1,6 @@
 # Commandes de base SQL
 
-<!-- Ne pas oublier d'aller dans le bon bash -->
+*Ne pas oublier d'aller dans le bon bash*
 - `docker exec -it container_name bash` : Lance une session bash interactive dans un conteneur.
 
 ## Gestion de bases de données
