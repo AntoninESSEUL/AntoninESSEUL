@@ -2,6 +2,8 @@
 
 *Ne pas oublier d'aller dans le bon bash*
 - `docker exec -it container_name bash` : Lance une session bash interactive dans un conteneur.
+- `mysql -u root -p` : Lance une session prompt sql.
+
 
 ## Gestion de bases de données
 
