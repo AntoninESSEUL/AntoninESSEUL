@@ -1,15 +1,20 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.0.10">
-  <diagram name="Page-1" id="AnecemfKQWgCzutKzNGR">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.0.10" pages="2">
+  <diagram name="Diplôme" id="AnecemfKQWgCzutKzNGR">
     <mxGraphModel dx="1240" dy="639" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9N-EcVejbt3T7o6XsOS1-89" value="&lt;div align=&quot;left&quot;&gt;Mettre du TypeScript car typage des variables par rapport à JavaScript &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="538" y="26" width="540" height="36" as="geometry" />
+        <mxCell id="9N-EcVejbt3T7o6XsOS1-89" value="&lt;div align=&quot;left&quot;&gt;Mettre du TypeScript car typage des variables par rapport à JavaScript&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;TEST: test unitaire, test fonctionnel, test de non-régression&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;Contact: stephane.pau@lery.cc&lt;/div&gt;&lt;/div&gt; &lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="538" y="26" width="540" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="9N-EcVejbt3T7o6XsOS1-90" value="&lt;div align=&quot;left&quot;&gt;TEST: test unitaire, test fonctionnel, test de non-régression&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="538" y="75" width="540" height="36" as="geometry" />
-        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hmU7qCqjKT4-JSm8ltr_" name="Base de données">
+    <mxGraphModel dx="1886" dy="735" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
