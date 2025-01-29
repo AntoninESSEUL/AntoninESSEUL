@@ -7,7 +7,7 @@
         <mxCell id="9N-EcVejbt3T7o6XsOS1-89" value="Mettre du TypeScript car typage des variables par rapport à JavaScript " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="538" y="26" width="540" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="9N-EcVejbt3T7o6XsOS1-90" value="&lt;div&gt;TEST&lt;br&gt;&lt;/div&gt;&lt;div&gt;test unitaires, test fonctionnels, test de non-régression&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="9N-EcVejbt3T7o6XsOS1-90" value="&lt;div&gt;TEST&lt;br&gt;&lt;/div&gt;&lt;div&gt;test unitaire, test fonctionnel, test de non-régression&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="538" y="75" width="540" height="36" as="geometry" />
         </mxCell>
       </root>
