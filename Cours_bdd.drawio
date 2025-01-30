@@ -15,7 +15,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="X_XzQh7dLAr2gwASFpP4-1" value="&lt;div&gt;Modèle conceptuel&lt;/div&gt;&lt;div&gt;Modèle logique&lt;/div&gt;&lt;div&gt;Modèle physique&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="X_XzQh7dLAr2gwASFpP4-1" value="&lt;div&gt;Modèle conceptuel (MCD)&lt;br&gt;&lt;/div&gt;&lt;div&gt;Modèle logique (MLD)&lt;br&gt;&lt;/div&gt;&lt;div&gt;Modèle physique (MPD)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Sour Gummy;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSour%2BGummy%3Aital%2Cwght%400%2C100..900%3B1%2C100..900%26display%3Dswap;fontSize=16;fontColor=default;fontStyle=0;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-353" y="-685" width="295" height="115" as="geometry" />
         </mxCell>
       </root>
